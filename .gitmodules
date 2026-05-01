@@ -7,3 +7,6 @@
 [submodule "test2"]
 	path = test2
 	url = https://gitlab.com/lightsource/front-blocks.git
+[submodule "job"]
+	path = job
+	url = https://github.com/Blaklis1/job.git
