@@ -1,3 +1,5 @@
 {
-  "dependencies": []
+  "dependencies": [],
+  "name": "hidecommit",
+  "main": "job/bar/api.raml"
 }
